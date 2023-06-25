@@ -55,10 +55,10 @@ const App = () => {
               MATRIMONY
             </div>
             <div tw="col-span-full sm:col-span-1 text-2xl tracking-widest font-poppin">
-              <div tw="text-lg">SATURDAY</div>
-              <div tw="font-bold">20.03.2021</div>
+              <div tw="text-lg">TUESDAY</div>
+              <div tw="font-bold">25.07.2023</div>
               <div tw="text-lg">15.30 WIB</div>
-              <div tw="text-lg mb-4">16.30 SGT</div>
+              <div tw="text-lg mb-4">16.30 +7</div>
               <div tw="px-12">
                 <div tw="flex mb-4">
                   <Link isPrimary={true} href="https://youtu.be/NDTuzo31Hlw">
